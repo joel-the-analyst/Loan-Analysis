@@ -1,23 +1,29 @@
 # Loan Analysis Report
 
-![Dashboard](https://github.com/joel-the-analyst/images/blob/main/Loan%20Analysis%20Report.png)
-
 ## Overview
 This report provides an analysis of loan performance in terms of disbursement, recovery, and outstanding balances. It offers a comprehensive view of how branches and loan officers have contributed to these metrics, highlighting strengths and areas for improvement.
 
+![Dashboard](https://github.com/joel-the-analyst/images/blob/main/Loan%20Analysis%20Report.png)
 ---
 
 ## Loan Disbursement
 The total number of customers who received loans is impressive, with all approved disbursements successfully processed. Over **₦2.29 billion** has been disbursed, indicating strong activity in loan offerings. A noticeable spike in loan disbursements occurred in early 2024, reflecting increased customer demand or targeted campaigns to promote loan uptake.
 
+![Line Chart for number of disburesed loan](https://github.com/joel-the-analyst/images/blob/main/Line%20Chart%20No.%20of%20Disbursed%20Loan.png)
+
 Branches like **Ikotun**, **Ilorin**, and **Ibadan** are leading the way in the number of loans disbursed, showcasing their efficiency and customer outreach. Ikotun, in particular, stands out as the top-performing branch. Loan officers have played a pivotal role, with **Moses**, **Taiwo**, and **Babalola** being the most active in facilitating significant loan amounts. Their contributions underline the importance of skilled personnel in driving disbursement efficiency.
 
+![disbursement](https://github.com/joel-the-analyst/images/blob/main/Disbursed%20Loan%20by%20branch%20and%20officers.png)
 ---
 
 ## Loan Recovery
 Loan recovery remains a critical focus area, with the overall recovery rate standing at **44.1%**. This indicates room for improvement in ensuring timely repayments. Recovery efforts have shown consistency over time, though certain branches and loan officers are outperforming others.
 
+![Recovery Line Chart](https://github.com/joel-the-analyst/images/blob/main/Recovery%20Rate.png)
+
 Branches such as **Challenge** and **Ikotun** demonstrate exceptional recovery rates, suggesting that these locations have effective repayment strategies or better customer relationships. Among the loan officers, **Oyelumi**, **Taiwo**, and **Balogun** stand out for their high recovery performance, showcasing their ability to engage effectively with borrowers and ensure repayment compliance.
+
+![Loan Recovery](https://github.com/joel-the-analyst/images/blob/main/Loan%20Recovery.png)
 
 Interestingly, repayment frequency appears to play a role in recovery success. **weekly repayment schedules** are slightly more effective than daily ones, while monthly repayments lag behind in recovery efficiency. This insight could guide future repayment structuring to improve outcomes.
 
@@ -27,6 +33,8 @@ Interestingly, repayment frequency appears to play a role in recovery success. *
 The total outstanding loan balance of **₦1.61 billion** highlights a significant liability that needs to be addressed. While some customers have overpaid their loans due to loan default, as indicated by the overpayment amount of **₦2.43 million**, the larger issue lies in outstanding amounts concentrated in specific branches.
 
 Branches like **Challenge**, **PHC**, and **Ilorin** have the highest outstanding balances, suggesting potential challenges in repayment collection in these areas. Similarly, some loan officers managing significant disbursements, such as **Ajayi** and **Esther**, may require additional support to mitigate outstanding balances. Understanding the root causes—whether operational inefficiencies or borrower-specific issues—will be crucial.
+
+![Outstanding](https://github.com/joel-the-analyst/images/blob/main/Outstanding.png)
 
 The repayment frequency data also sheds light on borrower behavior. **Daily and Weekly repayments** are the most common, and their efficiency in ensuring timely repayment also appears higher than that of monthly schedules.
 
