@@ -1,7 +1,5 @@
 # Loan Analysis Report
 
-!(images/Loan Analysis Report.png)
-
 ## Overview
 This report provides an analysis of loan performance in terms of disbursement, recovery, and outstanding balances. It offers a comprehensive view of how branches and loan officers have contributed to these metrics, highlighting strengths and areas for improvement.
 
@@ -19,16 +17,16 @@ Loan recovery remains a critical focus area, with the overall recovery rate stan
 
 Branches such as **Challenge** and **Ikotun** demonstrate exceptional recovery rates, suggesting that these locations have effective repayment strategies or better customer relationships. Among the loan officers, **Oyelumi**, **Taiwo**, and **Balogun** stand out for their high recovery performance, showcasing their ability to engage effectively with borrowers and ensure repayment compliance.
 
-Interestingly, repayment frequency appears to play a role in recovery success. **Monthly repayment schedules** are slightly more effective than weekly ones, while daily repayments lag behind in recovery efficiency. This insight could guide future repayment structuring to improve outcomes.
+Interestingly, repayment frequency appears to play a role in recovery success. **weekly repayment schedules** are slightly more effective than daily ones, while monthly repayments lag behind in recovery efficiency. This insight could guide future repayment structuring to improve outcomes.
 
 ---
 
 ## Outstanding Loans
-The total outstanding loan balance of **₦1.61 billion** highlights a significant liability that needs to be addressed. While some customers have overpaid their loans, as indicated by the overpayment amount of **₦2.43 million**, the larger issue lies in outstanding amounts concentrated in specific branches.
+The total outstanding loan balance of **₦1.61 billion** highlights a significant liability that needs to be addressed. While some customers have overpaid their loans due to loan default, as indicated by the overpayment amount of **₦2.43 million**, the larger issue lies in outstanding amounts concentrated in specific branches.
 
 Branches like **Challenge**, **PHC**, and **Ilorin** have the highest outstanding balances, suggesting potential challenges in repayment collection in these areas. Similarly, some loan officers managing significant disbursements, such as **Ajayi** and **Esther**, may require additional support to mitigate outstanding balances. Understanding the root causes—whether operational inefficiencies or borrower-specific issues—will be crucial.
 
-The repayment frequency data also sheds light on borrower behavior. **Weekly repayments** are the most common, followed by monthly and daily schedules. While weekly payments dominate, their efficiency in ensuring timely repayment appears lower than that of monthly schedules.
+The repayment frequency data also sheds light on borrower behavior. **Daily and Weekly repayments** are the most common, and their efficiency in ensuring timely repayment also appears higher than that of monthly schedules.
 
 ---
 
